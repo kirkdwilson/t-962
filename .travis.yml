@@ -25,4 +25,4 @@ deploy:
   on:
     tags: true
     all_branches: true
-    repo: UnifiedEngineering/T-962-improvements
+    repo:t-962
