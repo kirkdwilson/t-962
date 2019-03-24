@@ -25,4 +25,4 @@ deploy:
   on:
     tags: true
     all_branches: true
-    repo:t-962
+    repo:kirkdwilson/t-962
